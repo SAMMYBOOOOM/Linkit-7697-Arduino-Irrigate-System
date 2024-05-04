@@ -23,13 +23,14 @@ The system is comprehensively designed with the following components:
   
 
 - A Linkit 7697 board. You can view the board [here](https://www.seeedstudio.com/LinkIt-7697-p-2818.html).
-- External button: Acts as a switch for OLED and MQTT display.
-- OLED display: Boasts a 128*64 display for showcasing sensor status.
-- SI114X: A Sunlight sensor (Visible, IR, UV).
-- DHT11: An air humidity and temperature sensor with integer accuracy(Humidity, Temperature in Celsius).
-- 3v3/5v relay: Supplies ample power for the water pump.
-- An electronic water pump: Facilitates water distribution.
-- Soil moisture sensor: Imparts the soil moisture value.
+1. External button: Acts as a switch for OLED and MQTT display.
+2. OLED display: Boasts a 128*64 display for showcasing sensor status.
+3. SI114X: A Sunlight sensor (Visible, IR, UV).
+4. DHT11: An air humidity and temperature sensor with integer accuracy(Humidity, Temperature in Celsius).
+5. Soil moisture sensor: Imparts the soil moisture value.
+6. Relay: Control the water pump.
+7. 3v3/5v Power supply: Supplies ample power for the water pump.
+8. An electronic water pump: Facilitates water distribution.
 
   
 
