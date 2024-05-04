@@ -7,9 +7,9 @@
   
 
 Welcome to a user-friendly Arduino Irrigation System designed with a host of components designed to automate your irrigation process. This system is a testimony of how diverse hardware components can be utilized in conjunction with software services like MQTT server, Line Notify, and a simplistic web user interface to facilitate seamless interactions.  
-![[Simple_WebUI.png]]  
-![[MQTT_server.png]]  
-![[Line_Notify.png]]
+![WebUI](https://github.com/SAMMYBOOOOM/Linkit-7697-Arduino-Irrigate-System/blob/main/img/Simple_WebUI.png)
+![MQTT](https://github.com/SAMMYBOOOOM/Linkit-7697-Arduino-Irrigate-System/blob/main/img/MQTT_server.png)
+![Line notify](https://github.com/SAMMYBOOOOM/Linkit-7697-Arduino-Irrigate-System/blob/main/img/Line_Notify.png)
 
   
 
