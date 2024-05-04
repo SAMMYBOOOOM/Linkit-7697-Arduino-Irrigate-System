@@ -10,6 +10,7 @@ Welcome to a user-friendly Arduino Irrigation System designed with a host of com
 ![WebUI](https://github.com/SAMMYBOOOOM/Linkit-7697-Arduino-Irrigate-System/blob/main/img/Simple_WebUI.png)
 ![MQTT](https://github.com/SAMMYBOOOOM/Linkit-7697-Arduino-Irrigate-System/blob/main/img/MQTT_server.png)
 ![Line notify](https://github.com/SAMMYBOOOOM/Linkit-7697-Arduino-Irrigate-System/blob/main/img/Line_Notify.png)
+![OLED](https://github.com/SAMMYBOOOOM/Linkit-7697-Arduino-Irrigate-System/blob/main/img/OLED.png)
 
   
 
