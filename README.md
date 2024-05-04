@@ -31,6 +31,8 @@ The system is comprehensively designed with the following components:
 6. Relay: Control the water pump.
 7. 3v3/5v Power supply: Supplies ample power for the water pump.
 8. An electronic water pump: Facilitates water distribution.
+   
+Visit [here](https://github.com/SAMMYBOOOOM/Linkit-7697-Arduino-Irrigate-System/tree/main/Components_link) for more detail on how to link each components
 
   
 
