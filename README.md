@@ -34,7 +34,14 @@ The system is comprehensively designed with the following components:
    
 Visit [here](https://github.com/SAMMYBOOOOM/Linkit-7697-Arduino-Irrigate-System/tree/main/Components_link) for more detail on how to link each components
 
-  
+## Library 
+
+1. [DHT sensor](https://github.com/adafruit/DHT-sensor-library).
+2. [SI114X sunlight sensor](https://github.com/Seeed-Studio/Grove_Sunlight_Sensor).
+3. [NTP client](https://github.com/arduino-libraries/NTPClient).
+4. [Pubsubclient 2.6](https://www.arduino.cc/reference/en/libraries/pubsubclient/).
+
+Import it directly to Arduino at **Sketch/Include Library/Add .ZIP Library...**
 
 ## Functional Aspects
 
