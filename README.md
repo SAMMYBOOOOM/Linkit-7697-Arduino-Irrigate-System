@@ -13,6 +13,18 @@ Welcome to a user-friendly Arduino Irrigation System designed with a host of com
 ![OLED](https://github.com/SAMMYBOOOOM/Linkit-7697-Arduino-Irrigate-System/blob/main/img/OLED.png)
 
   
+## How to use
+1. **Environment Preparation:** Before diving into the project, ensure you have the right tools and software. In case of any issues with setting up the environment, I highly recommend downloading and extracting the ![Arduino hourly build.zip](https://github.com/SAMMYBOOOOM/Linkit-7697-Arduino-Irrigate-System/raw/main/ArduinoAndLibrary/Arduino%20hourly%20build.zip?download=) and ![Arduino15.zip](https://github.com/SAMMYBOOOOM/Linkit-7697-Arduino-Irrigate-System/raw/main/ArduinoAndLibrary/Arduino15.zip?download=). These contain essential files to jumpstart your project.
+
+Unzip the **Arduino15.zip** then paste it at **C:\Users\username\AppData\Local\Arduino15**
+
+3. **Library Installation:** For the system to function correctly, add the necessary libraries to your Arduino IDE. You can import them directly via **Sketch > Include Library > Add .ZIP Library…**. Here are the libraries your project needs:
+- [DHT sensor](https://github.com/adafruit/DHT-sensor-library) for air humidity and temperature measurements.
+- [SI114X sunlight sensor](https://github.com/Seeed-Studio/Grove_Sunlight_Sensor) to monitor visible, IR, and UV light.
+- [NTP client](https://github.com/arduino-libraries/NTPClient) for accurate timekeeping.
+- [Pubsubclient 2.6](https://www.arduino.cc/reference/en/libraries/pubsubclient/) to handle message queuing telemetry transport (MQTT) communication.
+Component Assembly: Follow the comprehensive guide provided here to connect all the hardware components correctly. This step is crucial for the smooth operation of your irrigation system.
+
 
 ## Component Inventory
 
@@ -34,14 +46,6 @@ The system is comprehensively designed with the following components:
    
 Visit [here](https://github.com/SAMMYBOOOOM/Linkit-7697-Arduino-Irrigate-System/tree/main/Components_link) for more detail on how to link each components
 
-## Library 
-
-1. [DHT sensor](https://github.com/adafruit/DHT-sensor-library).
-2. [SI114X sunlight sensor](https://github.com/Seeed-Studio/Grove_Sunlight_Sensor).
-3. [NTP client](https://github.com/arduino-libraries/NTPClient).
-4. [Pubsubclient 2.6](https://www.arduino.cc/reference/en/libraries/pubsubclient/).
-
-Import it directly to Arduino at **Sketch/Include Library/Add .ZIP Library...**
 
 ## Functional Aspects
 
