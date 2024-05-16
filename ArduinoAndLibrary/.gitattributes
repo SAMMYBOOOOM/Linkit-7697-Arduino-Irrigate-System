@@ -1,1 +1,2 @@
 Arduino[[:space:]]hourly[[:space:]]build.zip filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
