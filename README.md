@@ -18,7 +18,10 @@ Welcome to a user-friendly Arduino Irrigation System designed with a host of com
 
 Unzip the **Arduino15.zip** then paste it at **C:\Users\username\AppData\Local\Arduino15**
 
-3. **Library Installation:** For the system to function correctly, add the necessary libraries to your Arduino IDE. You can import them directly via **Sketch > Include Library > Add .ZIP Library…**. Here are the libraries your project needs:
+Instruction video:
+https://youtu.be/stdLgHaFlJg
+
+2. **Library Installation:** For the system to function correctly, add the necessary libraries to your Arduino IDE. You can import them directly via **Sketch > Include Library > Add .ZIP Library…**. Here are the libraries your project needs:
 - [DHT sensor](https://github.com/adafruit/DHT-sensor-library) for air humidity and temperature measurements.
 - [SI114X sunlight sensor](https://github.com/Seeed-Studio/Grove_Sunlight_Sensor) to monitor visible, IR, and UV light.
 - [NTP client](https://github.com/arduino-libraries/NTPClient) for accurate timekeeping.
